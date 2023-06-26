@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-t(f+wy95rvtq24-5f9$m8!qa4)d63vm(p%l416k1l&=s9mie!_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['midoctor-production.up.railway.app']
 
 
 # Application definition
